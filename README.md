@@ -6,7 +6,7 @@ Sistema bancario desarrollado con **.NET 9**, arquitectura **DDD + Hexagonal** y
 
 ## 📐 Diagrama de Clases
 
-![Diagrama de Clases UML - Bluesoft Bank](./Assets/diagrama_clases.png)
+![Diagrama de Clases UML - Bluesoft Bank](https://github.com/samuel655/bluesoft-bank-api/blob/master/Assets/Diagrama%20en%20blanco.png)
 
 ---
 
